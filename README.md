@@ -1,4 +1,4 @@
 blackmon_c
 ==========
 
-C version of my BlackMon FAN daemon
+C version of my BlackMon FAN daemon (work in progress)
